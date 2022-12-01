@@ -1,0 +1,7 @@
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\bin\Debug\GerenciadorAtributos.exe.config
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\bin\Debug\GerenciadorAtributos.exe
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\bin\Debug\GerenciadorAtributos.pdb
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\obj\Debug\GerenciadorAtributos.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\obj\Debug\GerenciadorAtributos.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\obj\Debug\GerenciadorAtributos.exe
+C:\Users\sarah\source\repos\GerenciadorAtributos\GerenciadorAtributos\obj\Debug\GerenciadorAtributos.pdb
