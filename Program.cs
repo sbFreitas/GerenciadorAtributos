@@ -115,7 +115,7 @@ namespace GerenciadorAtributos
 
             try
             {
-                Random sec = new Random();
+                var randomGenerator = RandomNumberGenerator.Create();
                 return new DateTime(year, month, day, hour, min, sec.Next(0, 59));
             }
 
