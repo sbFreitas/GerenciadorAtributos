@@ -3,7 +3,7 @@ using System.IO;
 
 namespace GerenciadorAtributos
 {
-    class Program
+    public class Program
     {
         private static string file;
 
